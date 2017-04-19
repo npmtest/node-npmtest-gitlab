@@ -1,6 +1,6 @@
 # npmtest-gitlab
 
-#### test coverage for  [gitlab (v1.7.1)](https://github.com/node-gitlab/node-gitlab#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gitlab.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gitlab) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gitlab.svg)](https://travis-ci.org/npmtest/node-npmtest-gitlab)
+#### basic test coverage for  [gitlab (v1.7.1)](https://github.com/node-gitlab/node-gitlab#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gitlab.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gitlab) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gitlab.svg)](https://travis-ci.org/npmtest/node-npmtest-gitlab)
 
 #### GitLab API Nodejs library.
 
